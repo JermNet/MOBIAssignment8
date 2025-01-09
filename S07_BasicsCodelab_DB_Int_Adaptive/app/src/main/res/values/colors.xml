@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="NORMAL">#FF9FA19F</color>
+    <color name="EVIL_NORMAL">#FF605E60</color>
+
+    <color name="FIRE">#FFE62829</color>
+    <color name="EVIL_FIRE">#FF19D7D6</color>
+
+    <color name="WATER">#FF2980EF</color>
+    <color name="EVIL_WATER">#FFD67F10</color>
+
+    <color name="GRASS">#FF3FA129</color>
+    <color name="EVIL_GRASS">#FFC05ED6</color>
+
+    <color name="ELECTRIC">#FFFAC000</color>
+    <color name="EVIL_ELECTRIC">#FF053FFF</color>
+
+    <color name="PSYCHIC">#FFEF4179</color>
+    <color name="EVIL_PSYCHIC">#FF10BE86</color>
+
+    <color name="ICE">#FF3DCEF3</color>
+    <color name="EVIL_ICE">#FFC2310C</color>
+
+    <color name="DRAGON">#FF5060E1</color>
+    <color name="EVIL_DRAGON">#FFAF9F1E</color>
+
+    <color name="DARK">#FF624D4E</color>
+    <color name="EVIL_DARK">#FF9DB2B1</color>
+
+    <color name="FAIRY">#FFEF70EF</color>
+    <color name="EVIL_FAIRY">#FF108F10</color>
+
+    <color name="FIGHTING">#FFFF8000</color>
+    <color name="EVIL_FIGHTING">#FF007FFF</color>
+
+    <color name="FLYING">#FF81B9EF</color>
+    <color name="EVIL_FLYING">#FF7E4610</color>
+
+    <color name="POISON">#FF9141CB</color>
+    <color name="EVIL_POISON">#FF6EBE34</color>
+
+    <color name="GROUND">#FF915121</color>
+    <color name="EVIL_GROUND">#FF6EAEDE</color>
+
+    <color name="ROCK">#FFAFA981</color>
+    <color name="EVIL_ROCK">#FF50567E</color>
+
+    <color name="BUG">#FF91A119</color>
+    <color name="EVIL_BUG">#FF9181CB</color>
+
+    <color name="GHOST">#FF704170</color>
+    <color name="EVIL_GHOST">#FF8FBE8F</color>
+
+    <color name="STEEL">#FF60A1B8</color>
+    <color name="EVIL_STEEL">#FF9F5E47</color>
+
+    <color name="NONE">#FF68A090</color>
+    <color name="EVIL_NONE">#FF975F6F</color>
+
+    <color name="LEGENDARY">#FFFFD700</color>
+    <color name="EVIL_LEGENDARY">#FFC0C0C0</color>
+
+</resources>
