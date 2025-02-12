@@ -1,3 +1,6 @@
+# Video covering this project
+https://youtu.be/OPx5rnW8cQs
+
 # HOW TO RUN
 1. Using Android Studio, open the "S07_BasicsCodelab_DB_Int_Adaptive" folder
 2. Sync your project with your gradle files (one of the icons on the top bar)
